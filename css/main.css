@@ -1,0 +1,22 @@
+ #extract{
+	        width:504px; 
+			height:504px;
+			margin:10px auto;
+			background:#ABCDEF;
+			border:2px solid green;
+			position:relative;
+	       }
+	  #turn{
+	        position:absolute;
+			width:504px;
+			height:504px;
+			background:url(../images/g.png);
+	       }	   
+	  .pointer{
+	        background:url(../images/z.png);
+			width:216px;
+			height:216px;
+			position:absolute;
+			left:144px;
+			top:144px;
+	       }	   
